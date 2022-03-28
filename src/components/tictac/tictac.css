@@ -1,0 +1,13 @@
+.tictacWrapper {
+  height: 400px;
+  width: 400px;
+  background-color: #f7e2e2;
+  color: black;
+}
+.box {
+  height: 33%;
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  color: black;
+}
